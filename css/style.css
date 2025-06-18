@@ -176,9 +176,9 @@ footer {
 
 /* Links
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-  a {
-	color:#2457F5;
-	text-decoration:underline;
+a {
+	color: #000000;
+	text-decoration: underline;
 }
 a:hover {
 	color:#083BDA;
